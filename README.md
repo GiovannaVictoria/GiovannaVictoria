@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩🏻‍💻 Olá, sou a Giovanna Victória Rossetto 👩🏻‍💻
 
-<!--
-**GiovannaVictoria/GiovannaVictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de Ciência da Computação na UFSCar, atualmente no 6° semestre 🎓
 
-Here are some ideas to get you started:
+### 👀 Estou em busca de um estágio em Desenvolvimento de Software 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✏️ Habilidades ✏️
+- Arquitetura MVC;
+- Bancos de dados relacionais (MySQL);
+- Design Patterns;
+- Estruturas de Dados;
+- Git & GitHub;
+- Hibernate;
+- HTML & CSS;
+- JSON;
+- Linguagem C;
+- Linguagem C++;
+- Linguagem Java;
+- Linguagem Python;
+- Linguagem SQL;
+- Linux;
+- Orientação a Objetos;
+- Rest API;
+- Servlets, JSP, JSTL & JDBC;
+- SOLID;
+- Spring Boot;
+- Thymeleaf.
+
+## 📬 Entre em contato 📬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-rossetto-063542250/)
