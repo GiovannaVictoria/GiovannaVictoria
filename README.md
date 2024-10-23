@@ -8,22 +8,23 @@
 - Arquitetura MVC;
 - Bancos de dados relacionais (MySQL);
 - Design Patterns;
+- C;
+- C++;
 - Estruturas de Dados;
 - Git & GitHub;
 - Hibernate;
 - HTML & CSS;
+- Java;
+- JavaScript;
 - JSON;
-- Linguagem C;
-- Linguagem C++;
-- Linguagem Java;
-- Linguagem Python;
-- Linguagem SQL;
 - Linux;
 - Orientação a Objetos;
+- Python;
 - Rest API;
 - Servlets, JSP, JSTL & JDBC;
 - SOLID;
 - Spring Boot;
+- SQL;
 - Thymeleaf.
 
 ## 📬 Entre em contato 📬
